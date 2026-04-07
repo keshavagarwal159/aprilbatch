@@ -1,3 +1,3 @@
-bucket = "my-terraform-state-1991"
-key    = "dev/terraform.tfstate"
-region = "us-east-1"
+bucket = "keshav-test-bucket1"
+key    = "dev/terraformkeshav.tfstate"
+region = "ap-south-1"
